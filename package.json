@@ -1,0 +1,23 @@
+{
+  "name": "KaboomJS-Typescript-Starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgrcnltnk/KaboomJS-Typescript-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgrcnltnk/KaboomJS-Typescript-Starter/issues"
+  },
+  "homepage": "https://github.com/zgrcnltnk/KaboomJS-Typescript-Starter#readme",
+  "devDependencies": {
+    "esbuild": "^0.13.4"
+  }
+}
