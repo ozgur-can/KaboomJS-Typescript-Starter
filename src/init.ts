@@ -1,10 +1,13 @@
+import { KaboomCtx } from "./types";
+
 let k: KaboomCtx;
 
 const init = () => {
+  //@ts-ignore
   k = kaboom({
     global: true,
     crisp: true,
-    clearColor: [0],
+    background: [100, 50, 100],
     letterbox: true,
   });
 

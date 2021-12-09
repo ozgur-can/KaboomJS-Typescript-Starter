@@ -4,6 +4,8 @@
     "outDir": "dist",
     "target": "ESNext",
     "module": "CommonJS",
-    "moduleResolution": "node"
+    "moduleResolution": "Node",
+    "typeRoots": ["./types"],
+    "isolatedModules": true
   }
 }
